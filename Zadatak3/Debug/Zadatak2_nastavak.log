@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Zadatak2_nastavak.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+C:\Users\Bogetic\source\repos\Zadatak2_nastavak\Source.c(55,8): warning C4013: 'sort' undefined; assuming extern returning int
+C:\Users\Bogetic\source\repos\Zadatak2_nastavak\Source.c(59,9): warning C4013: 'citaj' undefined; assuming extern returning int
+C:\Users\Bogetic\source\repos\Zadatak2_nastavak\Source.c(273): warning C4716: 'citaj': must return a value
+  Zadatak2_nastavak.vcxproj -> C:\Users\Bogetic\source\repos\Zadatak2_nastavak\Debug\Zadatak2i3.exe
