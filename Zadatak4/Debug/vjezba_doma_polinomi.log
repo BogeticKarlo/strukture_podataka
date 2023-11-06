@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Bogetic\source\repos\vjezba_doma_polinomi\Source.c(45,14): warning C4013: 'add_element' undefined; assuming extern returning int
+C:\Users\Bogetic\source\repos\vjezba_doma_polinomi\Source.c(61,15): warning C4013: 'print_polynom' undefined; assuming extern returning int
+C:\Users\Bogetic\source\repos\vjezba_doma_polinomi\Source.c(64,14): warning C4013: 'sum_polynoms' undefined; assuming extern returning int
+C:\Users\Bogetic\source\repos\vjezba_doma_polinomi\Source.c(65,18): warning C4013: 'product_polynoms' undefined; assuming extern returning int
+C:\Users\Bogetic\source\repos\vjezba_doma_polinomi\Source.c(126): warning C4715: 'add_element': not all control paths return a value
+C:\Users\Bogetic\source\repos\vjezba_doma_polinomi\Source.c(185): warning C4716: 'product_polynoms': must return a value
+  vjezba_doma_polinomi.vcxproj -> C:\Users\Bogetic\source\repos\vjezba_doma_polinomi\Debug\vjezba_doma_polinomi.exe
