@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Bogetic\source\repos\vjezba_stog\Source.c(26,20): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Bogetic\source\repos\vjezba_stog\Source.c(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogetic\source\repos\vjezba_stog\Source.c(48,8): warning C4013: 'push' undefined; assuming extern returning int
+C:\Users\Bogetic\source\repos\vjezba_stog\Source.c(62,8): warning C4013: 'pop' undefined; assuming extern returning int
+  vjezba_stog.vcxproj -> C:\Users\Bogetic\source\repos\vjezba_stog\Debug\vjezba_stog.exe
