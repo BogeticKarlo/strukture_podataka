@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\karlo\source\repos\zadatak11\zadatak11\Source.c(122,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  zadatak11.vcxproj -> C:\Users\karlo\source\repos\zadatak11\x64\Debug\zadatak11.exe
